@@ -3,7 +3,7 @@
 <h2>Cleaning Projects:</h2>
 
 - <b>FitBit Tracker Data</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FitBit repository](https://github.com/chrisoill/fitbit)
 
 <h2>Analyses</h2>
 
