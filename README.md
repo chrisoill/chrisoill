@@ -1,11 +1,16 @@
 <h1>Chris Oill<br/><a href="https://linkedin.com/in/chrisoill">Data Analyst</a></h1>
 
-<h2>Cleaning Projects:</h2>
+<h2>Data Scraping:</h2>
+
+- [Billboard repository](https://github.com/chrisoill/billboard_scrape)
+  - includes code used to scrape data from the BillBboard Hot 100 list
+    
+<h2>Data Cleaning:</h2>
 
 - [FitBit repository](https://github.com/chrisoill/fitbit)
   - includes code used to clean fitbit data for Google Data Analytics Certificate program
 
-<h2>Analyses</h2>
+<h2>Data Analysis</h2>
 
 - [A Simple Analysis](https://www.kaggle.com/code/chrisoill/a-simple-analysis)
   - code for a little analysis on the cleaned data, used to increase Kaggle dataset score to a perfect 10.0
